@@ -148,7 +148,7 @@ nav .wrapper {
   align-items: center;
   justify-content: space-between;
 }
-nav.scroll-active {
+nav.scroll {
   background: var(--brand-green);
 }
 nav button {
