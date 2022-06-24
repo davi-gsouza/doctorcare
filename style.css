@@ -119,14 +119,12 @@ section .content p {
 /* Custom Colors */
 #backToTopButton circle,
 #navigation .logo path[fill*='#00856F'] {
-  /* fill: var(--brand-green); */
-  fill: white;
+  fill: var(--brand-green);
 }
 #contact li path,
 #services .card path,
 button.open-menu path[stroke*='#00856F'] {
-  /* stroke: var(--brand-green); */
-  stroke: white;
+  stroke: var(--brand-green);
 }
 #navigation.scroll .logo path,
 body.menu-expanded #navigation .logo path {
