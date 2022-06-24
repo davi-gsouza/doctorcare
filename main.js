@@ -2,7 +2,7 @@ window.addEventListener('scroll', onScroll)
 
 onScroll()
 function onScroll() {
-  showNavOnScroll()
+  // showNavOnScroll()
   showBackToTopButtonOnScroll()
 
   activateMenuAtCurrentSection(home)
@@ -37,13 +37,13 @@ function activateMenuAtCurrentSection(section) {
   }
 }
 
-function showNavOnScroll() {
-  if (scrollY > 0) {
-    navigation.classList.add('scroll')
-  } else {
-    navigation.classList.remove('scroll')
-  }
-}
+// function showNavOnScroll() {
+//   if (scrollY > 0) {
+//     navigation.classList.add('scroll')
+//   } else {
+//     navigation.classList.remove('scroll')
+//   }
+// }
 
 function showBackToTopButtonOnScroll() {
   if (scrollY > 550) {
