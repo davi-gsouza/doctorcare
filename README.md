@@ -7,4 +7,4 @@
 Rocketseat - NLW Return 🚀💙
 
 ## Template
-<img src="./pricing-table-template.png" alt="Capa do Projeto DoctorCare - NLW Return" />
+<img src="./doctorcare-template.png" alt="Capa do Projeto DoctorCare - NLW Return" />
