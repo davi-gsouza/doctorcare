@@ -1,8 +1,8 @@
 # DoctorCare
 
-**EN:** The suggested activity was three tables with subscription plans.
+**EN:** Responsive landing page design for medical clinics.
 
-**PT-BR:** A atividade sugerida foi três tabelas com planos de assinatura.
+**PT-BR:** Projeto de landing page responsivo para clinicas médicas.
 
 Rocketseat - NLW Return 🚀💙
 
